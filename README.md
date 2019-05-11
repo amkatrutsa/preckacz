@@ -6,9 +6,9 @@
  
  We provide numerical experiments to demonstrate the performance of the proposed approach:
  
- - Random overdetermined ill-conditioned and consistent linear systems ([GitHub](./examples/random_data.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/amkatrutsa/preckacz/blob/master/examples/random_data.ipynb))
- - Kernel regression with explicit feature map via Random Fourier Features ([GitHub](./examples/kernel_regression_via_rff.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/amkatrutsa/preckacz/blob/master/examples/kernel_regression_via_rff.ipynb))
- - Image reconstruction from the tomography data ([GitHub](./examples/tomography.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/amkatrutsa/preckacz/blob/master/examples/tomography.ipynb)) The used images and matrices are stored in ```data``` folder.
+ - Random overdetermined ill-conditioned and consistent linear systems ([GitHub](./examples/random_data.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/amkatrutsa/preckacz/blob/master/examples/random_data.ipynb)).
+ - Kernel regression with explicit feature map via Random Fourier Features ([GitHub](./examples/kernel_regression_via_rff.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/amkatrutsa/preckacz/blob/master/examples/kernel_regression_via_rff.ipynb)).
+ - Image reconstruction from the tomography data ([GitHub](./examples/tomography.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/amkatrutsa/preckacz/blob/master/examples/tomography.ipynb)). The used images and matrices are stored in ```data``` folder.
  
  ## Citing
  
