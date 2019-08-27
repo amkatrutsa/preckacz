@@ -161,7 +161,8 @@ def rdbk(A, b_, x0, row_blocksize, col_blocksize, maxiter, maxtime, log_interval
             conv_x.append(x)
         time_conv.append(time.time() - start_time)
 
-    iter_counter += 1
+        iter_counter += 1
+        
     if iter_counter % log_interval != 0:
         conv_x.append(x)
     res = {"x": x, "conv_x": conv_x, "conv_time": time_conv}
